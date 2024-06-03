@@ -31,3 +31,10 @@ CineSchedule is a web-based platform designed to enhance the cinema-going experi
 3. Ensure that ASP.NET and SQLite are properly set up on your machine.
 4. Build and run the application to set up the database automatically.
 5. Navigate to `localhost:[port]` to start using the application.
+
+## Contributing
+Interested in contributing?  Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct and the process for submitting pull requests.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
