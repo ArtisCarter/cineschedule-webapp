@@ -4,7 +4,7 @@
 CineSchedule is a web-based platform designed to enhance the cinema-going experience by facilitating easy viewing of movie schedules, booking of tickets, and selection of seats. Developed as a project for Internet Programming class, this application aims to streamline the process of going to the movies with an intuitive and secure user interface.
 
 ## Technologies Used
-- **Language**: C#
+- **Languages**: C#, HTML, CSS, JavaScript
 - **Framework**: ASP.NET Framework
 - **IDE**: Visual Studio Code
 - **Database**: SQLite
